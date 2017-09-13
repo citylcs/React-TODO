@@ -59,7 +59,7 @@
 /******/
 /******/
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "9abf63986c0bec957391"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "35d861e6f2796a7dff74"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -837,7 +837,7 @@ var TodoList = function (_React$Component3) {
         _this4.remove = _this4.remove.bind(_this4);
         _this4.addItem = _this4.addItem.bind(_this4);
         _this4.filterChange = _this4.filterChange.bind(_this4);
-        _this4.state = { items: [{ id: 1, name: "Running" }, { id: 2, name: "Go Home" }, { id: 3, name: "Buy Apple" }],
+        _this4.state = { items: [{ id: 1, name: "Running" }, { id: 2, name: "Go Home" }, { id: 3, name: "Buy Apple" }, { id: 4, name: "Shopping" }, { id: 5, name: "Reading" }, { id: 7, name: "Learning JavaScript" }, { id: 7, name: "Call my mom" }, { id: 8, name: "repay the loan" }, { id: 9, name: "go to a meeting" }],
             filterText: ''
         };
         return _this4;

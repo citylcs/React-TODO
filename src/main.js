@@ -58,6 +58,12 @@ class TodoList extends React.Component {
             {id:1,name:"Running"},
             {id:2,name:"Go Home"},
             {id:3,name:"Buy Apple"},
+            {id:4,name:"Shopping"},
+            {id:5,name:"Reading"},
+            {id:7,name:"Learning JavaScript"},
+            {id:7,name:"Call my mom"},
+            {id:8,name:"repay the loan"},
+            {id:9,name:"go to a meeting"},
         ],
             filterText: '',
         }
