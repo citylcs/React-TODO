@@ -1,7 +1,5 @@
-// import React from 'react';
-// import List from './List';
-// import FilterInput from './FilterInput';
-// import TodoList from './TodoList';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 // 输出并根据情况过滤<li>标签里的内容
 class List extends React.Component {
